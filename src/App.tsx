@@ -2,8 +2,9 @@ import { useState } from 'react';
 import reactLogo from './assets/react.svg';
 import viteLogo from '/vite.svg';
 import './App.css';
-import './data/LinkedList/LinkedList.ts';
-import './task/atm.ts';
+// import './data/LinkedList/LinkedList.ts';
+// import './task/atm.ts';
+import './task/math.ts';
 
 function App() {
   const [count, setCount] = useState(0);
